@@ -2,6 +2,8 @@
 
 The **Arthrex MySurgery Website** is a patient portal designed to help patients stay connected with their surgeons. It provides a secure platform where users can access important medical information, including **pre/post-surgery checklists** and other essential details.  
 
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
+
 ## 🚀 **Features**  
 - 🏥 **Patient-Surgeon Connection** – Patients can securely access their medical information and stay in touch with their surgeon.  
 - 📋 **Pre/Post-Surgery Checklist** – Ensures that patients are well-prepared before and after their procedure.  
